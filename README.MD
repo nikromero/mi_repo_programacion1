@@ -3,7 +3,7 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Romero, Nicolas Ezequiel]*  
+- **Nombre:** Romero, Nicolas Ezequiel
 - **Comisión:** M2025-20 *[Modificar con su comisión, donde 7 es el número de comisión]*  
 
 ## 📂 Descripción del Repositorio  
